@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @CyberHansel
 - 👀 I’m interested in ... Cyber Security
 - 🌱 I’m currently learning ... Linux Administration
-- 💞️ I’m looking to collaborate on ... a bit too early for my level of skillet :)
+- 💞️ I’m looking to collaborate on ... a bit too early for my level of skillset :)
 - 📫 How to reach me ... hopefully not by hand
 
 <!---
